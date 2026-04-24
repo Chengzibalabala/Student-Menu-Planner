@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "ymPUsFkCWv7hjdl9oxtQs"
+uri = "file://artifacts/meal-planner/assets/images/icon.png"
+type = "image"
+title = "campus meals app icon"
